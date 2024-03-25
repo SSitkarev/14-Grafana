@@ -49,7 +49,9 @@ Introduction to PromQL, the Prometheus query language.
 В качестве решения задания приведите листинг этого файла.
 
 <details>
-  <summary>Click me</summary>
+  <summary>json model</summary>
+
+```json
 {
   "annotations": {
     "list": [
@@ -670,4 +672,6 @@ Introduction to PromQL, the Prometheus query language.
   "uid": "x7ijICJSk",
   "version": 1
 }
+```
+
 </details>
