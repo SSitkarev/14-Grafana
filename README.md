@@ -48,7 +48,8 @@ Introduction to PromQL, the Prometheus query language.
 Далее скопируйте отображаемое json-содержимое в отдельный файл и сохраните его.
 В качестве решения задания приведите листинг этого файла.
 
-```JSON
+<details>
+  <summary>Click me</summary>
 {
   "annotations": {
     "list": [
@@ -669,4 +670,4 @@ Introduction to PromQL, the Prometheus query language.
   "uid": "x7ijICJSk",
   "version": 1
 }
-```
+</details>
